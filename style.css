@@ -1,0 +1,25 @@
+.social-medias {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.link-social {
+    font-size: 35px;
+    margin: 10px;
+    transition: .5s;
+    color: #000;
+}
+
+.link-social:hover {
+    font-size: 40px;
+    color: #0B20E8;
+}
+
+.content span {
+    color: #0B20E8;
+}
+
+.card {
+    margin-bottom: 50px;
+}
